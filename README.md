@@ -1,3 +1,3 @@
 # Random Password Generator
 
-> *Random Password Generator using Flutter*
+- Random Password Generator using Flutter
